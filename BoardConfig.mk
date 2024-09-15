@@ -75,6 +75,7 @@ PLATFORM_VERSION := 16.1.0
 
 # TWRP Configuration
 TW_THEME := watch_mdpi
+TW_ROUND_SCREEN := true
 TW_EXTRA_LANGUAGES := true
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
